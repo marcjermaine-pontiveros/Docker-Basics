@@ -2,7 +2,7 @@
 
 [Free Lesson](https://fireship.io/lessons/docker-basics-tutorial-nodejs/)
 
-Docker is a tool that packages the app into a container that run reliably in any environment.
+Docker is a tool that packages the app into a container that runs reliably in any environment.
 
 ## Containerization
 
