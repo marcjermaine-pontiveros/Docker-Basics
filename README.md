@@ -14,7 +14,9 @@ Docker is a tool that packages the app into a container that runs reliably in an
 
 - Docker Containers
 
-## Creating a Dockerfile
+## Parts of a Dockerfile
+
+### Creating a Dockerfile
 
 - FROM
 
@@ -30,8 +32,13 @@ Docker is a tool that packages the app into a container that runs reliably in an
 
 - CMD
 
-## Building an image
+## Commands
+### Building an image
 
 `docker build -t dockerbasics:latest Dockerfile`
+
+### Running the container
+
+`docker run -p 5050:8080 <image-id>`
 
 
